@@ -60,7 +60,7 @@ DB_PASSWORD=your_database_password
    cd backend
    nodemon
 
-3. Visit `http://localhost:8000` in your web browser.
+3. Visit `http://localhost:5173/` in your web browser.
 
 4. Register a new account or log in with existing credentials.
 
